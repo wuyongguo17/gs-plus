@@ -5,7 +5,7 @@ server:
     max-threads: 1024
     min-spare-threads: 30
     accept-count: 5000
-  port: 8889
+  port: 9002
   connection-timeout: 1000ms
   servlet:
     context-path: /gs-api
